@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f57e4026b766440269c7ce58f26e0084
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tetrinoConfig: {fileID: 11400000, guid: c5c1c17645552440d93a3994798d39da, type: 2}
+  - gridConfig: {fileID: 11400000, guid: 21ceafa00b7c34fe494671b08422bdb6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

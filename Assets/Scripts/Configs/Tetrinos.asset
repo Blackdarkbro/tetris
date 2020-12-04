@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ca155af1ae42219204c3e62c21349b, type: 3}
+  m_Name: Tetrinos
+  m_EditorClassIdentifier: 
+  tetrinosNames:
+  - TetrinoQ
+  - TetrinoJ
+  - TetrinoL
+  - TetrinoI
+  - TetrinoZ
+  - TetrinoS
+  - TetrinoT
+  tetrinos:
+  - {fileID: 3524485903372947379, guid: 356cf16cd6a4d46ef9fa4fef79ef6bda, type: 3}
+  - {fileID: 1245764457825535850, guid: 51460101846ea4f82a080ba3cf3ed16a, type: 3}
+  - {fileID: 1798991050461094987, guid: 402e62eab37fe428cbfbe8a71282cc83, type: 3}
+  - {fileID: 7745883991511083355, guid: d8fc028cbff6143c780938f41897267c, type: 3}
+  - {fileID: 5934969109752244278, guid: 67353c045afc1482d992cc19fbc0d199, type: 3}
+  - {fileID: 4420336613636422964, guid: fd1a73bb95fac48ecb75596aab6c9491, type: 3}
+  - {fileID: 5571720788301016578, guid: a2ac8371d8a5647678b5f1d5ac7c9b56, type: 3}
